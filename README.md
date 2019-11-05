@@ -15,10 +15,9 @@
 |Command + X|剪切|
 |Command + F|文件内搜索|
 |Command + Shift + F|全部文件内搜索|
-|Command + H|替换|
 |Command + S|保存|
 |Command + /|行注释|
-|Command + Shift + A|块注释|
+|Command + Shift + A|块注释 (不能和其他快捷键冲突)))|
 |Command + Shift + Enter|上方插入一行|
 |Command + Enter|下方插入一行|
 |Command + Shift + F|文件夹查找|
@@ -28,15 +27,12 @@
 |Command + →|将光标定位到当前行的最右侧|
 |Command + ↑|将光标定位到文章的第一行|
 |Command + ↓|将光标定位到文章的末尾|
-|Command + Shift + F|文件夹查找|
-|Alt + Shift|多行选择|
-|Alt + Shift + A|格式化代码|
 |Alt + Delete|删除一整个单词|
 |Command + Delete|删除光标前面一整行|
 |Alt + ↑|将代码向上移动|
 |Alt + ↓|将代码向下移动|
-|Command + I|大写转小写|
-|Command + U|小写转大写|
+|Command + Y|大写转小写 (自定义)|
+|Command + U|小写转大写 (自定义)|
 
 # 工作区编辑常用快捷键
 
